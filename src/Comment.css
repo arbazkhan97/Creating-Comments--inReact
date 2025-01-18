@@ -1,0 +1,28 @@
+
+.comment-container{
+
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.comment{
+    margin-right: 25px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 12px ;
+    margin-bottom: 15px;
+    /* text-align: none; */
+    
+}
+
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
